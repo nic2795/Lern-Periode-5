@@ -2,7 +2,7 @@
 
 Niclas Dontschew
 
-23.04.24 bis Sommerferien
+23.04.24 bis 25.06.2024
 
 ## Grob-Planung
 Da ich in Lernperiode 3 und 4 bereits mit html und CSS gearbeitet habe, kann ich dies schon leicht. Jedoch möchte ich nomal eine Webseite erstellen und diese dann auch öffentlich machen. 
