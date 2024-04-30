@@ -16,3 +16,13 @@ Ausserdem möchte ich etwas produktiever in der dieser LP sein als in der letzte
 - [ ] Designen
 - [ ] Webseite veröffentlichen
 - [ ] Code auf Github
+
+## 30.04.2024
+✍️ Heute habe ich angefangen meine Webseite zu programmieren und diese dann zu designen. Ich habe ein Hintergrundbild eingefügt und einen Titel mit Logo. Wenn man auf das Logo klickt, kommt man zur Original Audi Webseite. Ich habe auch noch ein bisschen Inhalt in die Webseite eingefügt, diesen habe ich jedoch von ChatGBT generieren lassen. (54 Wörter)
+
+## 07.05.2024
+- [ ] Bild ausrichten
+- [ ] Text ausrichten
+- [ ] Neuen Text hinzufügen
+- [ ] Titel und Titellogo nebeneinander
+
