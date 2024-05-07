@@ -26,3 +26,12 @@ Ausserdem möchte ich etwas produktiever in der dieser LP sein als in der letzte
 - [ ] Neuen Text hinzufügen
 - [ ] Titel und Titellogo nebeneinander
 
+## 07.05.2024
+✍️ Heute habe ich an Aufträgen im Modul 106 gearbeitet, da wir morgen eine Abgabe haben. Ich habe aber auch an meiner Webseite gearbeitet, jedoch bin ich dort nicht voran gekommen. ICh wollte die Bilder richtig ausrichten, jedoch ist mir dies noch nicht so gut gelungen. Im Modul habe ich gut gearbeitet und bin gut voran gekommen. Ich habe innerhalb drei Stunden knapp acht Aufträge machen können. (66 Wörter)
+
+## 14.05.2024
+- [ ] Bild ausrichten
+- [ ] Text ausrichten
+- [ ] Neuen Text hinzufügen
+- [ ] Titel und Titellogo nebeneinander
+
