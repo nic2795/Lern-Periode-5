@@ -37,3 +37,11 @@ Ausserdem möchte ich etwas produktiever in der dieser LP sein als in der letzte
 - [ ] Neuen Text hinzufügen
 - [ ] Titel und Titellogo nebeneinander
 
+## 14.05.2024
+✍️ Heute habe ich wieder, produktiv, an meiner Webseite gearbeitet. Ich haben den Titel so gemacht, wie es mir gefällt und den Text angeordnet. Ich habe ausserdem auch noch im Modul 122 zwei Aufträge erledigt. Leider habe ich jedoch noch keinen neuen Text auf meiner Webseite hinzugefügt. (46 Wörter)
+
+## 21.05.2024
+- [ ] Neuen Text hinzufügen
+- [ ] Text ausrichten
+- [ ] Webseite per Github veröffentlichen
+- [ ] Bei meinem Währungsumrechner arbeiten - ich möchte eine Dropdownliste hinzufügen 
