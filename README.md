@@ -45,3 +45,11 @@ Ausserdem möchte ich etwas produktiever in der dieser LP sein als in der letzte
 - [ ] Text ausrichten
 - [ ] Webseite per Github veröffentlichen
 - [ ] Bei meinem Währungsumrechner arbeiten - ich möchte eine Dropdownliste hinzufügen 
+
+## 21.05.2024
+✍️ Heute habe ich meine Audi Webseite fertigstellen können, da ich von zu Hause sehr schnell und produktiv abreiten konnte. Ich habe die Webseite jedoch nicht veröffentlicht, weil ich dies nicht mehr möchte. An meinem Währungsrechner habe ich leider auch noch nicht arbeitet können, da ich keine Zeit mehr hatte. (50 Wörter)
+
+- [ ] An meinem Währungsumrechner arbeiten - ich möchte eine Dropdownliste hinzufügen
+- [ ] Für die Dropdownliste jeweils eine API einbauen
+- [ ] Alles schön mit Flage und Name anordnen
+- [ ] Webseite per Github veröffentlichen
