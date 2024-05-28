@@ -53,3 +53,12 @@ Ausserdem möchte ich etwas produktiever in der dieser LP sein als in der letzte
 - [ ] Für die Dropdownliste jeweils eine API einbauen
 - [ ] Alles schön mit Flage und Name anordnen
 - [ ] Webseite per Github veröffentlichen
+
+## 28.05.2024
+✍️ Heute konnte ich nicht viel an meinem Währungsrechner arbeiten, da ich von 8-10 eine Prüfung nachholen musste. Deswegen konnte ich nur herausfinde, wie ich eine Dropdownliste mache. 
+
+## 04.06.2024
+- [ ] Dropdownliste hinzufügen
+- [ ] Für die Dropdownliste jeweils eine API einbauen
+- [ ] Alles schön mit Flage und Name anordnen
+- [ ] Webseite per Github veröffentlichen
