@@ -62,3 +62,12 @@ Ausserdem möchte ich etwas produktiever in der dieser LP sein als in der letzte
 - [ ] Für die Dropdownliste jeweils eine API einbauen
 - [ ] Alles schön mit Flage und Name anordnen
 - [ ] Webseite per Github veröffentlichen
+
+## 04.06.2024
+✍️ Heute habe ich an meinem Währungsrechner gearbeitet und habe eine Dropdownliste hinzugefügt, nach verschiedenen versuchen hat es endlich funktioniert. Jetzt arbeite ich daran noch an Erscheinungsbild der Liste. Ausserdem habe ich es noch nicht hinbekommen Bilder in die Dropdownliste hinzuzufügen. Da dass ausprobieren verschiedener Varianten sehr lange gedauert hat, konnte ich auch noch keine API für die verschiedenen Währungen hinzufügen. (60 Wörter)
+
+## 11.06.2024
+- [ ] Flage der jeweiligen Währung in die Dropdownliste hinzufügen
+- [ ] Für die Dropdownliste jeweils eine API einbauen
+- [ ] Alles schön mit Flage und Name anordnen
+- [ ] Webseite per Github veröffentlichen
