@@ -71,3 +71,13 @@ Ausserdem möchte ich etwas produktiever in der dieser LP sein als in der letzte
 - [ ] Für die Dropdownliste jeweils eine API einbauen
 - [ ] Alles schön mit Flage und Name anordnen
 - [ ] Webseite per Github veröffentlichen
+
+
+## 11.06.2024
+✍️ Heute habe ich an meinem Währungsrechner gearbeitet. Ich habe versucht die Flagen der jeweiligen Währungen auf verschiedene Arten in die Dropdownliste einzufügen. Jedoch hat keine Methode die ich im Internet gefunden habe funktioniert. Aus diesem Grund habe ich nur geschafft die Dorpdownliste richtig zu positionieren. Für die Flagen in der Liste muss ich das nächste Mal Herr Colic fragen. 
+
+## 18.06.2024
+- [ ] Flage der jeweiligen Währung in die Dropdownliste hinzufügen
+- [ ] Für die Dropdownliste jeweils eine API einbauen
+- [ ] Alles schön mit Flage und Name anordnen
+- [ ] Webseite per Github veröffentlichen
