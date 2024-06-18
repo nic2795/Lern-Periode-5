@@ -81,3 +81,11 @@ Ausserdem möchte ich etwas produktiever in der dieser LP sein als in der letzte
 - [ ] Für die Dropdownliste jeweils eine API einbauen
 - [ ] Alles schön mit Flage und Name anordnen
 - [ ] Webseite per Github veröffentlichen
+
+## 18.06.2024
+✍️ Heute habe ich wieder an meinem Währungsrechner gearbeitet. Ich konnte leider nicht herausfinden, wei man ein Dropdownliste mit Bilder machen kann. Deswegen habe ich das Problem jetzt anders gelöst. Ich habe eine Navbar eingebaut, diese Listet alle Währungen zum Umrechnen auf. Jedoch habe ich es nicht geschafft für alle Währungen eine API einzubauen. Ich habe die Webseite per Github veröffentlicht. (53 Wörter)
+
+## 25.06.2024
+- [ ] API hinzufügen
+- [ ] Navbar anordnen
+- [ ] Projekt Dokumentieren für Modul 293
